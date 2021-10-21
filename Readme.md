@@ -18,6 +18,8 @@ https://aws.amazon.com/premiumsupport/knowledge-center/execute-user-data-ec2/
 how cache works at different region with dns and port
 https://d1.awsstatic.com/whitepapers/performance-at-scale-with-amazon-elasticache.pdf
 
+Building a Multi-region Serverless Application with Amazon API Gateway and AWS Lambda
+https://aws.amazon.com/blogs/compute/building-a-multi-region-serverless-application-with-amazon-api-gateway-and-aws-lambda/
 
 architect-learning-plan
 https://explore.skillbuilder.aws/learn/learning_plan/view/78/architect-learning-plan
